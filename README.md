@@ -1,7 +1,10 @@
 ![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Samy Chowdhury</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&lines=A+passionate+MERN+Stack+developer)
+<p align='center'>
+<img src='https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&lines=A+passionate+MERN+Stack+developer' alt='typing_svg'/>
+</p>
+
 
 ## 🧾 Current overview
 - 💬 Ask me about **Ask me about anything related to MERN stack and related technologies**
@@ -13,8 +16,9 @@
 - ⚡ Fun fact **My code editor is open more hours than my fridge. Priorities! 🖥️🥪**
 
 ## 📈 Current Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Samychowdhury01&theme=github-dark-blue&hide_border=true)
-
+<p align='center'>
+<img src='https://streak-stats.demolab.com/?user=Samychowdhury01&theme=github-dark-blue&hide_border=true' alt='github_current_stats'/>
+</p>
 
 
 
