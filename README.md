@@ -13,7 +13,7 @@
 - ⚡ Fun fact **My code editor is open more hours than my fridge. Priorities! 🖥️🥪**
 
 ## 📈 Current Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=samychowdhury01)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Samychowdhury01&theme=github-dark-blue)]
 
 
 
@@ -43,13 +43,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=samychowdhury01&theme=algolia)]
 
 
-## 📙 Language States
-<p>
-<img width='100%' src="https://github-readme-stats.vercel.app/api/top-langs?username=samychowdhury01&theme=github_dark&show_icons=true&locale=en&layout=compact&hide_border=true" alt="samychowdhury01" />
-</p>
-
-
-## ⚡ Github States
-<p>&nbsp;<img align="center" width='100%'  src="https://github-readme-stats.vercel.app/api?username=samychowdhury01&theme=github_dark&show_icons=true&locale=en&hide_border=true" alt="samychowdhury01" />
+## 📊 Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samychowdhury01&theme=github_dark&show_icons=true&locale=en&layout=compact&hide_border=true" alt="samychowdhury01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samychowdhury01&theme=github_dark&show_icons=true&locale=en&hide_border=true" alt="samychowdhury01" /></p>
 
 </p>
+
