@@ -1,7 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Samy Chowdhury</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&lines=A+passionate+MERN+Stack+developer)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&lines=A+passionate+MERN+Stack+developer)
 
 ## 🧾 Current overview
 - 💬 Ask me about **Ask me about anything related to MERN stack and related technologies**
@@ -13,7 +13,7 @@
 - ⚡ Fun fact **My code editor is open more hours than my fridge. Priorities! 🖥️🥪**
 
 ## 📈 Current Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Samychowdhury01&theme=github-dark-blue)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=Samychowdhury01&theme=github-dark-blue&hide_border=true)
 
 
 
@@ -40,10 +40,10 @@
 
 
 ## 🏆 Achievements:
-[![trophy](https://github-profile-trophy.vercel.app/?username=samychowdhury01&theme=algolia)]
+![trophy](https://github-profile-trophy.vercel.app/?username=samychowdhury01&theme=algolia)
 
 
-## 📊 Github Stats
+## 📊 Github States
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samychowdhury01&theme=github_dark&show_icons=true&locale=en&layout=compact&hide_border=true" alt="samychowdhury01" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samychowdhury01&theme=github_dark&show_icons=true&locale=en&hide_border=true" alt="samychowdhury01" /></p>
 
